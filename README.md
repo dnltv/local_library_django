@@ -1,5 +1,4 @@
 # Django Local Library
-
 Tutorial "Local Library" website written in Django.
 
 For detailed information about this project see the associated <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website">MDN tutorial home page.</a>
@@ -23,18 +22,17 @@ The main features that have currently been implemented are:
 
 To get this project up and running locally on your computer:
 <ol>
-    <li>Set up the Python development environment. We recommend using a Python virtual environment.</li>
-    <li>Assuming you have Python setup, run the following commands (if you're on Windows you may use ```py``` or ```py -3``` instead of ```python``` to start Python):
-```
-pip3 install -r requirements.txt
+    <li>Set up the <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment">Python development environment</a>. We recommend using a Python virtual environment.</li>
+    <li>Assuming you have Python setup, run the following commands (if you're on Windows you may use <code>py</code> or <code>py -3</code> instead of <code>python</code> to start Python):
+<pre><code>pip3 install -r requirements.txt
 python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py collectstatic
 python3 manage.py test # Run the standard tests. These should all pass.
 python3 manage.py createsuperuser # Create a superuser
 python3 manage.py runserver
-``` </li>
-    <li>Open a browser to ```http://127.0.0.1:8000/admin/``` to open the admin site</li>
+</code></pre></li>
+    <li>Open a browser to <code>http://127.0.0.1:8000/admin/</code> to open the admin site</li>
     <li>Create a few test objects of each type.</li>
-    <li>Open tab to ```http://127.0.0.1:8000``` to see the main site, with your new objects.</li>
+    <li>Open tab to <code>http://127.0.0.1:8000</code> to see the main site, with your new objects.</li>
 </ol>
