@@ -1,8 +1,8 @@
 # Django Local Library
 
-## Tutorial "Local Library" website written in Django.
+Tutorial "Local Library" website written in Django.
 
-For detailed information about this project see the associated MDN tutorial home page.
+For detailed information about this project see the associated <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website">MDN tutorial home page.</a>
 
 ## Overview
 
