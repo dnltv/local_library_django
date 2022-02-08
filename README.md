@@ -15,7 +15,7 @@ The main features that have currently been implemented are:
   <li>Admin users can create and manage models. The admin has been optimised (the basic registration is present in admin.py, but commented out).</li>
   <li>Librarians can renew reserved books.</li>
 </ul>
-<img src="locallibrarymodel.jpg" description="Local Library Model"
+<img src="catalog/static/images/local_library_model_uml.png" description="Local Library Model"
 
 
 
