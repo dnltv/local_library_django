@@ -1,11 +1,10 @@
-# Heading 1
-Django Local Library
+# Django Local Library
 
-Tutorial "Local Library" website written in Django.
+## Tutorial "Local Library" website written in Django.
 
 For detailed information about this project see the associated MDN tutorial home page.
 
-Overview
+## Overview
 
 This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
 
@@ -19,7 +18,7 @@ Librarians can renew reserved books
 
 Local Library Model
 
-Quick Start
+## Quick Start
 
 To get this project up and running locally on your computer:
 
